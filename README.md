@@ -1,4 +1,4 @@
-# This repository is part of Enterprise Data Science lecture.
+# This repository is part of Enterprise Data Science.
 The first submission has a visualization of the Covid cases, infection rates and vaccination rate (till today 25.06.2022) of various countries written in Jupyter notebbok.
 
 
